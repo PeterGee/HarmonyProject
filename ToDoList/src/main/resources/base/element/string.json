@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "ToDoListAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "ToDoListAbility_label",
+      "value": "label"
+    }
+  ]
+}

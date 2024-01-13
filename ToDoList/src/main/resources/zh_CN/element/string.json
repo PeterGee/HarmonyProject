@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "ToDoListAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "ToDoListAbility_label",
+      "value": "label"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "module": {
+    "name": "ToDoList",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "ToDoListAbility",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "ToDoListAbility",
+        "srcEntry": "./ets/todolistability/ToDoListAbility.ts",
+        "description": "$string:ToDoListAbility_desc",
+        "icon": "$media:icon",
+        "label": "$string:ToDoListAbility_label",
+        "startWindowIcon": "$media:icon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

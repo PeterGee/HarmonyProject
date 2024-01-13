@@ -1,0 +1,16 @@
+{
+  "src": [
+    "pages/FirstPage",
+    "pages/SecondPage",
+    "pages/TextDemo",
+    "pages/IndexPage",
+    "pages/ContainerPage",
+    "pages/ListPage",
+    "pages/TabPage",
+    "pages/StatePage",
+    "pages/VideoPage",
+    "pages/DialogPage",
+    "pages/AnimPage",
+    "pages/WebPage"
+  ]
+}
